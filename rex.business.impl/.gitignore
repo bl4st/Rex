@@ -1,2 +1,5 @@
 /generated/
 /target/
+.settings
+.classpath
+.project

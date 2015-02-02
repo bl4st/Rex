@@ -1,3 +1,5 @@
-/build/
 /generated/
 /target/
+.settings
+.classpath
+.project
